@@ -1,12 +1,9 @@
-## Gratitude 🙌
-This document was inspired by [Oren Ellenbogen](https://managerreadme.com/use-cases). Many thanks to his insightful writing which has helped me grow as a manager over the years.
-
 ## Hello! 👋
 Thank you for taking the time to read this. My goal is for this to be a living document that can serve as a starting place where you can get to know me so that we kick off our working relationship with a strong and successful start. Below, I'll share how I like to work and what you can expect from me as a manager and leader. If document doesn't match your experience, challenge me to update it. This will help me and the next person.
 
 ## My Philosophy 🧐
 
-> If you want to go fast, go alone. If you want to go far, go together. -African Proverb 
+> If you want to go fast, go alone. If you want to go far, go together. - Burkina Faso Proverb 
 
 My friends, we're going to go far! Each and every person I work with has a unique set of skills, talents and attributes. Yes, this means you too! I value what you bring, and will work with you and your teammates to grow our collective skills, leaning in to your individual talents and building a strong team who builds great things together and has fun in the process. I work collaboratively with my team to help them meet their objectives and overcome challenges.
 
@@ -18,7 +15,7 @@ I view our one on one time as a time to really focus on **YOU**.  The cadence wi
 At least quarterly, we'll use the time to check in on your goals career. These will likely include goals that roll up to company and department goals, as well as goals for your own individual career growth. When I know what you want to focus on, I can help finding resources, opportunities and mentors who can help you achieve them. I'll check in to make sure we're hitting the sweet spot of work that's just right in terms of it's level of challenge.
 
 ### Team Meetings
-Our team will share an agenda for team meetings where everyone can drop in topics. This isn't meant to be a status meeting, and in fact, we often won't talk about the current work in progress at all. Instead, these meetings are a good time for us all to zoom out a level. We'll discuss agenda items. We'll cheer our recent accomplishments to help us enjoy our journey along the way. We'll talk about where we're going and where we are with respect to bigger picture milestones. We'll take a pulse check on how we're feeling collectively.  I'll share any business updates and news. You can ask about any rumors or gossip or concerns you may have. I intend for this time to be an open forum for us.
+Our team will share an agenda for team meetings where everyone can drop in topics. This isn't meant to be a status meeting, and in fact, we often won't talk about the current work in progress at all. Instead, these meetings are a good time for us all to zoom out a level. We'll discuss agenda items. We'll cheer our recent accomplishments to help us enjoy our journey along the way. We'll talk about where we're going and where we are with respect to bigger picture milestones. We'll take a pulse check on how we're feeling collectively.  I'll share any business updates and news. You can ask me anything about whatever questions, topics, or concerns you may have. I intend for this time to be an open forum for us.
 
 ## What to Expect From Me 🎯
 
@@ -78,3 +75,6 @@ You'll have much to learn! I'll work with you through your onboarding to make su
 If you're ever stuck or feeling like you're not sure what to do, be proactive and reach out. This is especially important in remote environments. 
 
 During our 1:1s we'll check in on the on-boarding process and we'll both have an opportunity to share feedback. At your 90-day mark, you'll have an opportunity to share thoughts about your overall onboarding experience. I encourage you to share frankly, calling out the good and the bad, so that we can improve the process for the next newcomer.
+
+## Credits and Gratitude 🙌
+This document was inspired by [Oren Ellenbogen](https://managerreadme.com/use-cases). Many thanks to his insightful writing which has helped me grow as a manager over the years.
